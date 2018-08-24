@@ -3,6 +3,6 @@
 
 Editando este arquivo
 
-##texto inicial##
+texto inicia
 
 
